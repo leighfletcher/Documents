@@ -1,4 +1,4 @@
-COMICS Imaging Reduction
+*COMICS Imaging Reduction*
 
 The COMICS imaging data comes in a slightly different format to that of MIRSI or VISIR, and so some modifications are required in the processing stages.  The images are contained in COMA*.gz files, which contain multiple exposures of both the target (A frame) and sky (B frame).   The B-frames must be separated out and used to create a flat.
 
