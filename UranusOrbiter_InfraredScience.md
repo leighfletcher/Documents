@@ -50,6 +50,6 @@ Moses et al. (2018), Seasonal Stratospheric Photochemistry on Uranus and Neptune
 
 Orton et al. (2015), Thermal Imaging of Uranus: Upper-Tropospheric Temperatures One Season After Voyager, Icarus 260, p94–102 (http://dx.doi.org/10.1016/j.icarus.2015.07.004)
 
-Orton et al. 2014a. Mid-Infrared spectroscopy of Uranus from the Spitzer Infrared Spectrometer: Determination of the mean temperature of the upper troposphere and stratosphere. Icarus 243, p471-493 (http://dx.doi.org/10.1016/j.icarus.2014.07.010) (https://arxiv.org/abs/1407.2120))
+Orton et al. (2014a), Mid-Infrared spectroscopy of Uranus from the Spitzer Infrared Spectrometer: Determination of the mean temperature of the upper troposphere and stratosphere. Icarus 243, p471-493 (http://dx.doi.org/10.1016/j.icarus.2014.07.010) (https://arxiv.org/abs/1407.2120))
 
-Orton et al. 2014b. Mid-Infrared spectroscopy of Uranus from the Spitzer Infrared Spectrometer: Determination of the mean composition of the upper troposphere and stratosphere. Icarus 243, p494-513. (http://dx.doi.org/10.1016/j.icarus.2014.07.012) (https://arxiv.org/abs/1407.2118)
+Orton et al. (2014b), Mid-Infrared spectroscopy of Uranus from the Spitzer Infrared Spectrometer: Determination of the mean composition of the upper troposphere and stratosphere. Icarus 243, p494-513. (http://dx.doi.org/10.1016/j.icarus.2014.07.012) (https://arxiv.org/abs/1407.2118)
