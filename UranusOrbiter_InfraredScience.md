@@ -5,6 +5,8 @@ The [Uranus Orbiter and Probe (UOP)](https://www.lpi.usra.edu/opag/meetings/nov2
 
 The Uranian System provides an exceptional challenge for thermal-infrared science, where the low-temperature environments revealed by Voyager 2 present a significant problem for Earth-based observations. Over the past two decades, ground-based mid-IR (13-25 µm) imaging from observatories [like VLT](https://arxiv.org/abs/1911.12830) have begun to reveal the spatial structure of Uranus’ atmospheric temperatures and ring emission; while space-based observatories [like Spitzer](https://arxiv.org/abs/1407.2120) provided disc-averaged spectroscopy to reveal their chemical composition.  This will soon be supplemented by new spatially resolved spectral maps of Uranus’ atmosphere and rings with JWST in the 5-28 µm range, but mid-IR spatial resolution remains poor for the Uranian system due to the 6.5-m JWST mirror: discrete thermal signatures of Uranian clouds cannot be observed; individual Uranian rings cannot be separated; Uranian satellites remain point sources; and we can never contrast the dayside conditions with those of polar winter. 
 
+Test.
+
 ## Infrared Science Objectives
 Thermal-infrared spectroscopy (or imaging) will provide essential scientific contributions to a future mission to an Ice Giant, including (but not limited to) the following science objectives:
 
